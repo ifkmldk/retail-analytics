@@ -1,0 +1,301 @@
+sku_id,product_name,category,subcategory,brand,cost_price_idr,selling_price_idr,launch_date,is_active,weight_gram
+MCO-SH-001,Slim-Fit Oxford Shirts — Black,Apparel,Shirts,MCC Standard,134000,320000,2021-11-09,True,997
+MCO-SH-002,Classic Linen Shirts — White,Apparel,Shirts,MCC Standard,165000,395000,2021-02-21,True,279
+MCO-SH-003,Relaxed Poplin Shirts — Navy,Apparel,Shirts,MCC Basic,98000,215000,2022-10-30,True,1601
+MCO-SH-004,OVERSIZED FLANNEL SHIRTS — IVORY,Apparel,Shirts,MCC Premium,222000,600000,2023-01-24,True,1034
+MCO-SH-005,Striped Button-Down Shirts — Camel,Apparel,Shirts,MCC Standard,58000,140000,2023-04-30,True,1736
+MCO-SH-006,Printed Batik Shirts — Sage,Apparel,Shirts,MCC Basic,89000,195000,2022-03-06,True,1020
+MCO-SH-007,Solid Jersey Shirts — Dusty Rose,Apparel,Shirts,MCC Premium,62000,170000,2022-03-17,True,1962
+MCO-SH-008,Woven Check Shirts — Cognac,Apparel,Shirts,MCC Basic,25000,55000,2021-05-15,True,1419
+MCO-SH-009,Mandarin Collar Shirts — Emerald,Apparel,Shirts,MCC Standard,140000,335000,2021-08-08,True,223
+MCO-SH-010,Cropped Tie-Front Shirts — Terracotta,Apparel,Shirts,MCC Basic,121000,265000,2022-07-30,True,1730
+MCO-SH-011,Slim-Fit Oxford Shirts — Cobalt,Apparel,Shirts,MCC Premium,127000,345000,2021-12-10,True,1135
+MCO-SH-012,Classic Linen Shirts — Stone,Apparel,Shirts,MCC Premium,53000,145000,2022-10-10,True,1528
+MCO-SH-013,Relaxed Poplin Shirts — Burgundy,Apparel,Shirts,MCC Standard,88000,210000,2023-06-14,True,951
+MCO-SH-014,Oversized Flannel Shirts — Olive,Apparel,Shirts,MCC Standard,81000,195000,2020-10-06,True,1075
+MCO-SH-015,Striped Button-Down Shirts — Blush,Apparel,Shirts,MCC Premium,148000,400000,2020-12-04,True,1535
+MCO-SH-016,Printed Batik Shirts — Mocha,Apparel,Shirts,MCC Premium,151000,410000,2022-03-27,True,1500
+MCO-SH-017,Solid Jersey Shirts — Black,Apparel,Shirts,MCC Standard,56000,135000,2023-01-16,True,1415
+MCO-SH-018,Woven Check Shirts — White,Apparel,Shirts,MCC Standard,140000,335000,2022-11-06,True,1844
+MCO-SH-019,Mandarin Collar Shirts — Navy,Apparel,Shirts,MCC Basic,110000,240000,2021-09-14,True,1983
+MCO-SH-020,Cropped Tie-Front Shirts — Ivory,Apparel,Shirts,MCC Standard,75000,180000,2022-06-15,True,376
+MCO-SH-021,Slim-Fit Oxford Shirts — Camel,Apparel,Shirts,MCC Premium,227000,615000,2020-07-23,True,1769
+MCO-SH-022,Classic Linen Shirts — Sage,Apparel,Shirts,MCC Standard,155000,370000,2021-12-15,True,1574
+MCO-SH-023,RELAXED POPLIN SHIRTS — DUSTY ROSE,Apparel,Shirts,MCC Basic,78000,170000,2021-12-01,True,1151
+MCO-SH-024,Oversized Flannel Shirts — Cognac,Apparel,Shirts,MCC Premium,173000,470000,2021-04-11,True,322
+MCO-SH-025,STRIPED BUTTON-DOWN SHIRTS — EMERALD,Apparel,Shirts,MCC Standard,134000,320000,2021-12-15,True,1892
+MCO-SH-026,Printed Batik Shirts — Terracotta,Apparel,Shirts,MCC Standard,119000,285000,2022-04-08,True,1425
+MCO-SH-027,Solid Jersey Shirts — Cobalt,Apparel,Shirts,MCC Standard,44000,105000,2022-03-22,True,1765
+MCO-SH-028,Woven Check Shirts — Stone,Apparel,Shirts,MCC Premium,112000,305000,2021-08-01,True,1005
+MCO-SH-029,Mandarin Collar Shirts — Burgundy,Apparel,Shirts,MCC Premium,105000,285000,2021-10-07,True,2184
+MCO-SH-030,Cropped Tie-Front Shirts — Olive,Apparel,Shirts,MCC Premium,240000,650000,2023-01-04,True,203
+MCO-SH-031,Slim-Fit Oxford Shirts — Blush,Apparel,Shirts,MCC Standard,174000,415000,2021-06-02,True,1000
+MCO-SH-032,Classic Linen Shirts — Mocha,Apparel,Shirts,MCC Standard,134000,320000,2022-01-21,True,1741
+MCO-SH-033,Relaxed Poplin Shirts — Black,Apparel,Shirts,MCC Standard,94000,225000,2021-10-05,True,966
+MCO-SH-034,Oversized Flannel Shirts — White,Apparel,Shirts,MCC Premium,231000,625000,2021-07-17,True,128
+MCO-SH-035,Striped Button-Down Shirts — Navy,Apparel,Shirts,MCC Premium,218000,590000,2022-09-17,True,1557
+MCO-SH-036,Printed Batik Shirts — Ivory,Apparel,Shirts,MCC Premium,148000,400000,2023-04-01,True,1142
+MCO-SH-037,Solid Jersey Shirts — Camel,Apparel,Shirts,MCC Premium,157000,425000,2022-08-19,True,1130
+MCO-SH-038,Woven Check Shirts — Sage,Apparel,Shirts,MCC Standard,100000,240000,2021-04-03,True,719
+MCO-SH-039,Mandarin Collar Shirts — Dusty Rose,Apparel,Shirts,MCC Standard,126000,300000,2021-08-16,True,2114
+MCO-SH-040,Cropped Tie-Front Shirts — Cognac,Apparel,Shirts,MCC Premium,62000,170000,2021-07-22,True,2119
+MCO-SH-041,Slim-Fit Oxford Shirts — Emerald,Apparel,Shirts,MCC Basic,73000,160000,2022-08-23,True,1049
+MCO-SH-042,Classic Linen Shirts — Terracotta,Apparel,Shirts,MCC Basic,48000,105000,2021-04-30,True,1730
+MCO-SH-043,Relaxed Poplin Shirts — Cobalt,Apparel,Shirts,MCC Standard,155000,370000,2021-11-21,True,1642
+MCO-SH-044,Oversized Flannel Shirts — Stone,Apparel,Shirts,MCC Premium,105000,285000,2021-11-18,True,1993
+MCO-SH-045,Striped Button-Down Shirts — Burgundy,Apparel,Shirts,MCC Standard,140000,335000,2021-02-22,True,1609
+MCO-SH-046,Printed Batik Shirts — Olive,Apparel,Shirts,MCC Standard,77000,185000,2022-03-08,True,454
+MCO-SH-047,Solid Jersey Shirts — Blush,Apparel,Shirts,MCC Basic,20000,45000,2022-10-27,True,1124
+MCO-SH-048,Woven Check Shirts — Mocha,Apparel,Shirts,MCC Standard,142000,340000,2021-06-19,True,1409
+MCO-SH-049,Mandarin Collar Shirts — Black,Apparel,Shirts,MCC Standard,46000,110000,2022-06-29,True,1412
+MCO-SH-050,Cropped Tie-Front Shirts — White,Apparel,Shirts,MCC Standard,44000,105000,2022-11-27,True,168
+MCO-SH-051,  slim-fit oxford shirts — navy  ,Apparel,Shirts,MCC Standard,60000,145000,2021-07-12,True,1480
+MCO-SH-052,Classic Linen Shirts — Ivory,Apparel,Shirts,MCC Premium,75000,205000,2021-01-23,True,1325
+MCO-SH-053,Relaxed Poplin Shirts — Camel,Apparel,Shirts,MCC Premium,112000,305000,2023-04-28,True,2178
+MCO-SH-054,Oversized Flannel Shirts — Sage,Apparel,Shirts,MCC Standard,121000,290000,2022-05-19,True,1332
+MCO-SH-055,STRIPED BUTTON-DOWN SHIRTS — DUSTY ROSE,Apparel,Shirts,MCC Premium,77000,210000,2023-06-04,True,966
+MCO-SH-056,Printed Batik Shirts — Cognac,Apparel,Shirts,MCC Basic,71000,155000,2020-09-24,True,255
+MCO-SH-057,Solid Jersey Shirts — Emerald,Apparel,Shirts,MCC Standard,136000,325000,2022-01-05,True,1015
+MCO-SH-058,Woven Check Shirts — Terracotta,Apparel,Shirts,MCC Standard,178000,425000,2022-03-03,True,1083
+MCO-SH-059,Mandarin Collar Shirts — Cobalt,Apparel,Shirts,MCC Premium,260000,705000,2021-07-14,False,1235
+MCO-SH-060,Cropped Tie-Front Shirts — Stone,Apparel,Shirts,MCC Standard,113000,270000,2021-05-24,False,125
+MCO-DR-001,Floral Wrap Dresses — Black,Apparel,Dresses,MCC Basic,27000,60000,2023-03-27,True,1230
+MCO-DR-002,Midi Slip Dresses — White,Apparel,Dresses,MCC Standard,71000,170000,2021-06-27,True,310
+MCO-DR-003,A-Line Cotton Dresses — Navy,Apparel,Dresses,MCC Standard,65000,155000,2021-05-20,True,597
+MCO-DR-004,Ruched Bodycon Dresses — Ivory,Apparel,Dresses,MCC Standard,178000,425000,2023-05-13,True,1709
+MCO-DR-005,Broderie Anglaise Dresses — Camel,Apparel,Dresses,MCC Premium,246000,665000,2023-04-18,True,2147
+MCO-DR-006,Printed Chiffon Dresses — Sage,Apparel,Dresses,MCC Premium,129000,350000,2020-12-17,True,1256
+MCO-DR-007,Solid Knit Dresses — Dusty Rose,Apparel,Dresses,MCC Standard,105000,250000,2023-01-13,True,1055
+MCO-DR-008,Linen Maxi Dresses — Cognac,Apparel,Dresses,MCC Standard,210000,500000,2021-02-23,True,2100
+MCO-DR-009,Off-Shoulder Mini Dresses — Emerald,Apparel,Dresses,MCC Standard,172000,410000,2022-02-01,True,1999
+MCO-DR-010,Shirred Smock Dresses — Terracotta,Apparel,Dresses,MCC Basic,62000,135000,2021-01-29,True,428
+MCO-DR-011,Floral Wrap Dresses — Cobalt,Apparel,Dresses,MCC Premium,148000,400000,2021-11-05,True,2135
+MCO-DR-012,Midi Slip Dresses — Stone,Apparel,Dresses,MCC Basic,167000,365000,2020-10-23,True,1667
+MCO-DR-013,  a-line cotton dresses — burgundy  ,Apparel,Dresses,MCC Basic,59000,130000,2023-03-24,True,325
+MCO-DR-014,Ruched Bodycon Dresses — Olive,Apparel,Dresses,MCC Standard,149000,355000,2020-08-08,True,1716
+MCO-DR-015,Broderie Anglaise Dresses — Blush,Apparel,Dresses,MCC Standard,128000,305000,2021-08-30,True,1958
+MCO-DR-016,Printed Chiffon Dresses — Mocha,Apparel,Dresses,MCC Standard,60000,145000,2021-09-05,True,636
+MCO-DR-017,solid knit dresses — black,Apparel,Dresses,MCC Basic,161000,350000,2021-04-06,True,147
+MCO-DR-018,Linen Maxi Dresses — White,Apparel,Dresses,MCC Basic,43000,95000,2023-03-23,True,404
+MCO-DR-019,Off-Shoulder Mini Dresses — Navy,Apparel,Dresses,MCC Premium,170000,460000,2022-05-05,True,1606
+MCO-DR-020,Shirred Smock Dresses — Ivory,Apparel,Dresses,MCC Premium,325000,880000,2021-05-19,True,737
+MCO-DR-021,Floral Wrap Dresses — Camel,Apparel,Dresses,MCC Standard,109000,260000,2023-06-19,True,1138
+MCO-DR-022,Midi Slip Dresses — Sage,Apparel,Dresses,MCC Premium,212000,575000,2023-05-08,True,109
+MCO-DR-023,A-Line Cotton Dresses — Dusty Rose,Apparel,Dresses,MCC Premium,142000,385000,2020-12-07,True,118
+MCO-DR-024,Ruched Bodycon Dresses — Cognac,Apparel,Dresses,MCC Premium,264000,715000,2021-06-06,True,1153
+MCO-DR-025,Broderie Anglaise Dresses — Emerald,Apparel,Dresses,MCC Standard,201000,480000,2022-04-15,True,964
+MCO-DR-026,Printed Chiffon Dresses — Terracotta,Apparel,Dresses,MCC Basic,55000,120000,2020-08-11,True,1596
+MCO-DR-027,Solid Knit Dresses — Cobalt,Apparel,Dresses,MCC Standard,214000,510000,2020-12-06,True,999
+MCO-DR-028,Linen Maxi Dresses — Stone,Apparel,Dresses,MCC Basic,43000,95000,2020-10-11,True,922
+MCO-DR-029,Off-Shoulder Mini Dresses — Burgundy,Apparel,Dresses,MCC Standard,69000,165000,2022-01-03,True,1157
+MCO-DR-030,Shirred Smock Dresses — Olive,Apparel,Dresses,MCC Basic,121000,265000,2022-02-08,True,687
+MCO-DR-031,Floral Wrap Dresses — Blush,Apparel,Dresses,MCC Basic,96000,210000,2020-08-11,True,1345
+MCO-DR-032,midi slip dresses — mocha,Apparel,Dresses,MCC Standard,157000,375000,2023-01-25,True,304
+MCO-DR-033,A-Line Cotton Dresses — Black,Apparel,Dresses,MCC Premium,286000,775000,2021-10-19,True,93
+MCO-DR-034,Ruched Bodycon Dresses — White,Apparel,Dresses,MCC Standard,243000,580000,2021-01-30,True,2058
+MCO-DR-035,Broderie Anglaise Dresses — Navy,Apparel,Dresses,MCC Basic,89000,195000,2021-12-11,True,1424
+MCO-DR-036,Printed Chiffon Dresses — Ivory,Apparel,Dresses,MCC Premium,297000,805000,2022-07-14,True,311
+MCO-DR-037,Solid Knit Dresses — Camel,Apparel,Dresses,MCC Basic,62000,135000,2022-12-08,True,1061
+MCO-DR-038,Linen Maxi Dresses — Sage,Apparel,Dresses,MCC Standard,90000,215000,2022-11-03,True,1364
+MCO-DR-039,Off-Shoulder Mini Dresses — Dusty Rose,Apparel,Dresses,MCC Basic,133000,290000,2022-05-09,True,694
+MCO-DR-040,Shirred Smock Dresses — Cognac,Apparel,Dresses,MCC Standard,128000,305000,2023-04-30,True,982
+MCO-DR-041,Floral Wrap Dresses — Emerald,Apparel,Dresses,MCC Standard,243000,580000,2023-02-24,True,661
+MCO-DR-042,Midi Slip Dresses — Terracotta,Apparel,Dresses,MCC Premium,197000,535000,2021-05-06,True,581
+MCO-DR-043,A-Line Cotton Dresses — Cobalt,Apparel,Dresses,MCC Standard,218000,520000,2022-12-30,True,2113
+MCO-DR-044,Ruched Bodycon Dresses — Stone,Apparel,Dresses,MCC Premium,90000,245000,2021-12-19,False,1340
+MCO-DR-045,Broderie Anglaise Dresses — Burgundy,Apparel,Dresses,MCC Premium,118000,320000,2023-01-08,False,755
+MCO-PT-001,Wide-Leg Pants — Black,Apparel,Pants,MCC Premium,96000,260000,2023-04-17,True,2032
+MCO-PT-002,Straight-Cut Pants — White,Apparel,Pants,MCC Premium,72000,195000,2021-05-24,True,1304
+MCO-PT-003,Tapered Jogger Pants — Navy,Apparel,Pants,MCC Premium,72000,195000,2022-03-01,True,124
+MCO-PT-004,High-Waist Linen Pants — Ivory,Apparel,Pants,MCC Premium,77000,210000,2021-01-23,True,1841
+MCO-PT-005,Cargo Utility Pants — Camel,Apparel,Pants,MCC Standard,37000,90000,2022-02-02,True,1523
+MCO-PT-006,Slim Chino Pants — Sage,Apparel,Pants,MCC Standard,126000,300000,2021-06-29,True,2166
+MCO-PT-007,  pleated trouser pants — dusty rose  ,Apparel,Pants,MCC Basic,59000,130000,2022-12-03,True,1884
+MCO-PT-008,Paper-Bag Tie Pants — Cognac,Apparel,Pants,MCC Premium,127000,345000,2021-01-30,True,1964
+MCO-PT-009,Wide-Leg Pants — Emerald,Apparel,Pants,MCC Premium,85000,230000,2022-06-21,True,1291
+MCO-PT-010,Straight-Cut Pants — Terracotta,Apparel,Pants,MCC Standard,65000,155000,2020-09-07,True,95
+MCO-PT-011,Tapered Jogger Pants — Cobalt,Apparel,Pants,MCC Standard,75000,180000,2023-03-24,True,295
+MCO-PT-012,High-Waist Linen Pants — Stone,Apparel,Pants,MCC Basic,29000,65000,2020-09-10,True,936
+MCO-PT-013,Cargo Utility Pants — Burgundy,Apparel,Pants,MCC Premium,197000,535000,2023-01-21,True,1868
+MCO-PT-014,  slim chino pants — olive  ,Apparel,Pants,MCC Basic,39000,85000,2023-06-27,True,759
+MCO-PT-015,Pleated Trouser Pants — Blush,Apparel,Pants,MCC Standard,123000,295000,2022-06-05,True,1442
+MCO-PT-016,Paper-Bag Tie Pants — Mocha,Apparel,Pants,MCC Standard,115000,275000,2020-12-10,True,1831
+MCO-PT-017,Wide-Leg Pants — Black,Apparel,Pants,MCC Standard,92000,220000,2023-06-13,True,1898
+MCO-PT-018,Straight-Cut Pants — White,Apparel,Pants,MCC Standard,121000,290000,2021-09-11,True,1534
+MCO-PT-019,Tapered Jogger Pants — Navy,Apparel,Pants,MCC Premium,151000,410000,2020-09-20,True,376
+MCO-PT-020,High-Waist Linen Pants — Ivory,Apparel,Pants,MCC Standard,50000,120000,2021-10-16,True,1360
+MCO-PT-021,Cargo Utility Pants — Camel,Apparel,Pants,MCC Standard,58000,140000,2022-01-21,True,856
+MCO-PT-022,Slim Chino Pants — Sage,Apparel,Pants,MCC Standard,81000,195000,2021-09-05,True,467
+MCO-PT-023,Pleated Trouser Pants — Dusty Rose,Apparel,Pants,MCC Standard,111000,265000,2022-12-04,True,2091
+MCO-PT-024,Paper-Bag Tie Pants — Cognac,Apparel,Pants,MCC Basic,87000,190000,2021-12-26,True,1713
+MCO-PT-025,Wide-Leg Pants — Emerald,Apparel,Pants,MCC Standard,69000,165000,2023-06-06,True,1878
+MCO-PT-026,Straight-Cut Pants — Terracotta,Apparel,Pants,MCC Standard,54000,130000,2022-12-16,True,1252
+MCO-PT-027,Tapered Jogger Pants — Cobalt,Apparel,Pants,MCC Standard,92000,220000,2020-10-02,True,690
+MCO-PT-028,High-Waist Linen Pants — Stone,Apparel,Pants,MCC Standard,35000,85000,2021-02-22,True,1346
+MCO-PT-029,Cargo Utility Pants — Burgundy,Apparel,Pants,MCC Basic,73000,160000,2023-04-21,False,360
+MCO-PT-030,Slim Chino Pants — Olive,Apparel,Pants,MCC Standard,105000,250000,2020-10-27,False,1398
+MCO-OW-001,Oversized Blazer Outerwear — Black,Apparel,Outerwear,MCC Premium,377000,1020000,2022-02-10,True,2064
+MCO-OW-002,Knit Cardigan Outerwear — White,Apparel,Outerwear,MCC Premium,469000,1270000,2023-06-04,True,439
+MCO-OW-003,Denim Jacket Outerwear — Navy,Apparel,Outerwear,MCC Standard,281000,670000,2021-11-16,True,1739
+MCO-OW-004,Padded Vest Outerwear — Ivory,Apparel,Outerwear,MCC Basic,213000,465000,2023-05-21,True,271
+MCO-OW-005,Trench Coat Outerwear — Camel,Apparel,Outerwear,MCC Standard,130000,310000,2020-09-08,True,281
+MCO-OW-006,Zip-Up Hoodie Outerwear — Sage,Apparel,Outerwear,MCC Standard,107000,255000,2021-01-19,True,354
+MCO-OW-007,Woven Kimono Outerwear — Dusty Rose,Apparel,Outerwear,MCC Standard,216000,515000,2021-12-20,True,1067
+MCO-OW-008,Shacket Outerwear — Cognac,Apparel,Outerwear,MCC Standard,260000,620000,2022-11-02,True,2030
+MCO-OW-009,Oversized Blazer Outerwear — Emerald,Apparel,Outerwear,MCC Standard,279000,665000,2021-03-31,True,1351
+MCO-OW-010,Knit Cardigan Outerwear — Terracotta,Apparel,Outerwear,MCC Basic,197000,430000,2020-11-23,True,1746
+MCO-OW-011,Denim Jacket Outerwear — Cobalt,Apparel,Outerwear,MCC Premium,136000,370000,2022-01-03,True,1474
+MCO-OW-012,Padded Vest Outerwear — Stone,Apparel,Outerwear,MCC Standard,312000,745000,2022-11-13,True,521
+MCO-OW-013,Trench Coat Outerwear — Burgundy,Apparel,Outerwear,MCC Standard,245000,585000,2022-10-05,True,1984
+MCO-OW-014,Zip-Up Hoodie Outerwear — Olive,Apparel,Outerwear,MCC Standard,235000,560000,2021-05-08,True,1765
+MCO-OW-015,  woven kimono outerwear — blush  ,Apparel,Outerwear,MCC Standard,161000,385000,2021-06-24,True,414
+MCO-OW-016,Shacket Outerwear — Mocha,Apparel,Outerwear,MCC Premium,123000,335000,2023-05-10,True,1256
+MCO-OW-017,Oversized Blazer Outerwear — Black,Apparel,Outerwear,MCC Standard,180000,430000,2020-12-02,True,1626
+MCO-OW-018,Knit Cardigan Outerwear — White,Apparel,Outerwear,MCC Standard,321000,765000,2023-05-10,True,844
+MCO-OW-019,Denim Jacket Outerwear — Navy,Apparel,Outerwear,MCC Standard,275000,655000,2020-12-15,True,877
+MCO-OW-020,Padded Vest Outerwear — Ivory,Apparel,Outerwear,MCC Basic,41000,90000,2022-09-12,True,1874
+MCO-OW-021,trench coat outerwear — camel,Apparel,Outerwear,MCC Premium,466000,1260000,2021-05-09,True,1883
+MCO-OW-022,ZIP-UP HOODIE OUTERWEAR — SAGE,Apparel,Outerwear,MCC Standard,94000,225000,2020-11-26,True,1093
+MCO-OW-023,Woven Kimono Outerwear — Dusty Rose,Apparel,Outerwear,MCC Standard,222000,530000,2022-03-05,True,106
+MCO-OW-024,  shacket outerwear — cognac  ,Apparel,Outerwear,MCC Standard,258000,615000,2023-01-08,False,994
+MCO-OW-025,Oversized Blazer Outerwear — Emerald,Apparel,Outerwear,MCC Standard,142000,340000,2021-06-26,False,1017
+MCO-BG-001,Structured Tote Bags — Black,Accessories,Bags,MCC Standard,163000,390000,2023-04-21,True,1645
+MCO-BG-002,Drawstring Bucket Bags — White,Accessories,Bags,MCC Premium,321000,870000,2021-09-18,True,2193
+MCO-BG-003,Chain Shoulder Bags — Navy,Accessories,Bags,MCC Basic,135000,295000,2021-05-23,True,1729
+MCO-BG-004,Mini Crossbody Bags — Ivory,Accessories,Bags,MCC Premium,340000,920000,2022-07-17,True,2198
+MCO-BG-005,Quilted Flap Bags — Camel,Accessories,Bags,MCC Standard,79000,190000,2022-06-30,True,1401
+MCO-BG-006,Woven Basket Bags — Sage,Accessories,Bags,MCC Basic,46000,100000,2023-02-19,True,141
+MCO-BG-007,Leather Clutch Bags — Dusty Rose,Accessories,Bags,MCC Premium,218000,590000,2020-12-19,True,1891
+MCO-BG-008,Canvas Shopper Bags — Cognac,Accessories,Bags,MCC Premium,321000,870000,2020-07-31,True,2010
+MCO-BG-009,Nylon Backpack Bags — Emerald,Accessories,Bags,MCC Standard,252000,600000,2020-08-23,True,91
+MCO-BG-010,Top-Handle Satchel Bags — Terracotta,Accessories,Bags,MCC Premium,72000,195000,2023-01-02,True,1364
+MCO-BG-011,Structured Tote Bags — Cobalt,Accessories,Bags,MCC Basic,179000,390000,2021-04-03,True,690
+MCO-BG-012,Drawstring Bucket Bags — Stone,Accessories,Bags,MCC Premium,347000,940000,2022-07-21,True,1778
+MCO-BG-013,Chain Shoulder Bags — Burgundy,Accessories,Bags,MCC Basic,50000,110000,2022-11-11,True,1873
+MCO-BG-014,  mini crossbody bags — olive  ,Accessories,Bags,MCC Basic,138000,300000,2021-11-18,True,165
+MCO-BG-015,Quilted Flap Bags — Blush,Accessories,Bags,MCC Premium,109000,295000,2020-11-29,True,1558
+MCO-BG-016,Woven Basket Bags — Mocha,Accessories,Bags,MCC Standard,161000,385000,2022-03-10,True,1415
+MCO-BG-017,Leather Clutch Bags — Black,Accessories,Bags,MCC Basic,101000,220000,2021-01-01,True,1804
+MCO-BG-018,Canvas Shopper Bags — White,Accessories,Bags,MCC Premium,307000,830000,2020-08-01,True,654
+MCO-BG-019,Nylon Backpack Bags — Navy,Accessories,Bags,MCC Standard,165000,395000,2023-06-28,True,1668
+MCO-BG-020,Top-Handle Satchel Bags — Ivory,Accessories,Bags,MCC Premium,268000,725000,2020-09-30,True,1386
+MCO-BG-021,Structured Tote Bags — Camel,Accessories,Bags,MCC Premium,142000,385000,2023-03-14,True,1052
+MCO-BG-022,Drawstring Bucket Bags — Sage,Accessories,Bags,MCC Premium,301000,815000,2021-08-27,True,274
+MCO-BG-023,Chain Shoulder Bags — Dusty Rose,Accessories,Bags,MCC Premium,190000,515000,2023-06-28,True,1334
+MCO-BG-024,MINI CROSSBODY BAGS — COGNAC,Accessories,Bags,MCC Basic,101000,220000,2021-04-20,True,1429
+MCO-BG-025,Quilted Flap Bags — Emerald,Accessories,Bags,MCC Standard,149000,355000,2020-12-21,True,606
+MCO-BG-026,Woven Basket Bags — Terracotta,Accessories,Bags,MCC Standard,260000,620000,2021-10-18,True,1305
+MCO-BG-027,Leather Clutch Bags — Cobalt,Accessories,Bags,MCC Standard,107000,255000,2022-06-29,True,1018
+MCO-BG-028,Canvas Shopper Bags — Stone,Accessories,Bags,MCC Premium,373000,1010000,2021-12-04,True,1157
+MCO-BG-029,Nylon Backpack Bags — Burgundy,Accessories,Bags,MCC Standard,252000,600000,2021-12-18,True,354
+MCO-BG-030,Top-Handle Satchel Bags — Olive,Accessories,Bags,MCC Premium,109000,295000,2023-05-23,True,669
+MCO-BG-031,Structured Tote Bags — Blush,Accessories,Bags,MCC Standard,186000,445000,2021-10-28,True,1745
+MCO-BG-032,Drawstring Bucket Bags — Mocha,Accessories,Bags,MCC Standard,184000,440000,2023-06-18,True,953
+MCO-BG-033,Chain Shoulder Bags — Black,Accessories,Bags,MCC Standard,237000,565000,2021-03-11,True,2092
+MCO-BG-034,Mini Crossbody Bags — White,Accessories,Bags,MCC Standard,180000,430000,2023-04-23,True,156
+MCO-BG-035,Quilted Flap Bags — Navy,Accessories,Bags,MCC Standard,155000,370000,2021-12-18,True,393
+MCO-BG-036,Woven Basket Bags — Ivory,Accessories,Bags,MCC Standard,98000,235000,2021-08-04,True,1279
+MCO-BG-037,Leather Clutch Bags — Camel,Accessories,Bags,MCC Standard,170000,405000,2022-06-27,True,1324
+MCO-BG-038,Canvas Shopper Bags — Sage,Accessories,Bags,MCC Standard,195000,465000,2021-04-11,True,1749
+MCO-BG-039,Nylon Backpack Bags — Dusty Rose,Accessories,Bags,MCC Standard,92000,220000,2021-11-01,False,1202
+MCO-BG-040,Top-Handle Satchel Bags — Cognac,Accessories,Bags,MCC Standard,189000,450000,2023-06-07,False,1167
+MCO-JW-001,Gold-Plated Hoop Jewelry — Black,Accessories,Jewelry,MCC Standard,67000,160000,2023-03-17,True,351
+MCO-JW-002,Pearl Drop Jewelry — White,Accessories,Jewelry,MCC Standard,96000,230000,2022-09-29,True,1182
+MCO-JW-003,Chunky Chain Jewelry — Navy,Accessories,Jewelry,MCC Basic,25000,55000,2021-06-25,True,1180
+MCO-JW-004,Beaded Strand Jewelry — Ivory,Accessories,Jewelry,MCC Standard,90000,215000,2020-08-29,True,325
+MCO-JW-005,Statement Ear Cuff Jewelry — Camel,Accessories,Jewelry,MCC Premium,133000,360000,2023-01-27,True,1822
+MCO-JW-006,Layered Pendant Jewelry — Sage,Accessories,Jewelry,MCC Standard,25000,60000,2022-03-28,True,788
+MCO-JW-007,Ring Set Jewelry — Dusty Rose,Accessories,Jewelry,MCC Premium,118000,320000,2021-06-25,True,221
+MCO-JW-008,Cuff Bracelet Jewelry — Cognac,Accessories,Jewelry,MCC Premium,118000,320000,2021-11-07,True,1833
+MCO-JW-009,Gold-Plated Hoop Jewelry — Emerald,Accessories,Jewelry,MCC Basic,36000,80000,2021-08-28,True,1583
+MCO-JW-010,  pearl drop jewelry — terracotta  ,Accessories,Jewelry,MCC Standard,33000,80000,2022-07-20,True,333
+MCO-JW-011,Chunky Chain Jewelry — Cobalt,Accessories,Jewelry,MCC Standard,63000,150000,2023-06-04,True,242
+MCO-JW-012,Beaded Strand Jewelry — Stone,Accessories,Jewelry,MCC Standard,102000,245000,2021-10-24,True,739
+MCO-JW-013,statement ear cuff jewelry — burgundy,Accessories,Jewelry,MCC Standard,31000,75000,2022-08-29,True,1676
+MCO-JW-014,Layered Pendant Jewelry — Olive,Accessories,Jewelry,MCC Standard,52000,125000,2021-07-16,True,102
+MCO-JW-015,Ring Set Jewelry — Blush,Accessories,Jewelry,MCC Premium,122000,330000,2022-02-12,True,1069
+MCO-JW-016,Cuff Bracelet Jewelry — Mocha,Accessories,Jewelry,MCC Premium,48000,130000,2021-10-17,True,1852
+MCO-JW-017,Gold-Plated Hoop Jewelry — Black,Accessories,Jewelry,MCC Basic,66000,145000,2022-03-18,True,505
+MCO-JW-018,Pearl Drop Jewelry — White,Accessories,Jewelry,MCC Basic,59000,130000,2022-07-01,True,380
+MCO-JW-019,CHUNKY CHAIN JEWELRY — NAVY,Accessories,Jewelry,MCC Standard,90000,215000,2021-09-19,True,776
+MCO-JW-020,BEADED STRAND JEWELRY — IVORY,Accessories,Jewelry,MCC Standard,27000,65000,2020-08-29,True,999
+MCO-JW-021,Statement Ear Cuff Jewelry — Camel,Accessories,Jewelry,MCC Standard,96000,230000,2020-12-27,True,729
+MCO-JW-022,Layered Pendant Jewelry — Sage,Accessories,Jewelry,MCC Basic,23000,50000,2023-05-15,True,174
+MCO-JW-023,Ring Set Jewelry — Dusty Rose,Accessories,Jewelry,MCC Premium,51000,140000,2021-06-01,True,492
+MCO-JW-024,Cuff Bracelet Jewelry — Cognac,Accessories,Jewelry,MCC Standard,60000,145000,2022-09-18,True,1125
+MCO-JW-025,Gold-Plated Hoop Jewelry — Emerald,Accessories,Jewelry,MCC Premium,61000,165000,2021-04-09,True,1862
+MCO-JW-026,Pearl Drop Jewelry — Terracotta,Accessories,Jewelry,MCC Standard,90000,215000,2022-03-18,True,1456
+MCO-JW-027,Chunky Chain Jewelry — Cobalt,Accessories,Jewelry,MCC Standard,86000,205000,2022-11-01,True,1381
+MCO-JW-028,Beaded Strand Jewelry — Stone,Accessories,Jewelry,MCC Standard,25000,60000,2022-10-11,True,1223
+MCO-JW-029,Statement Ear Cuff Jewelry — Burgundy,Accessories,Jewelry,MCC Standard,98000,235000,2023-01-29,False,781
+MCO-JW-030,Layered Pendant Jewelry — Olive,Accessories,Jewelry,MCC Standard,60000,145000,2022-08-12,False,1886
+MCO-BT-001,Braided Leather Belts — Black,Accessories,Belts,MCC Standard,42000,100000,2023-04-11,True,726
+MCO-BT-002,Double Ring Belts — White,Accessories,Belts,MCC Basic,32000,70000,2021-09-10,True,802
+MCO-BT-003,Canvas Webbing Belts — Navy,Accessories,Belts,MCC Standard,65000,155000,2022-02-19,True,1176
+MCO-BT-004,Studded Skinny Belts — Ivory,Accessories,Belts,MCC Standard,23000,55000,2023-07-18,True,2024
+MCO-BT-005,Classic Buckle Belts — Camel,Accessories,Belts,MCC Standard,39000,95000,2021-01-26,True,98
+MCO-BT-006,Embroidered Fabric Belts — Sage,Accessories,Belts,MCC Premium,53000,145000,2021-04-26,True,132
+MCO-BT-007,Braided Leather Belts — Dusty Rose,Accessories,Belts,MCC Basic,36000,80000,2021-11-20,True,970
+MCO-BT-008,Double Ring Belts — Cognac,Accessories,Belts,MCC Standard,35000,85000,2022-03-30,True,95
+MCO-BT-009,  canvas webbing belts — emerald  ,Accessories,Belts,MCC Premium,38000,105000,2022-08-27,True,1194
+MCO-BT-010,Studded Skinny Belts — Terracotta,Accessories,Belts,MCC Basic,36000,80000,2022-12-15,True,1395
+MCO-BT-011,Classic Buckle Belts — Cobalt,Accessories,Belts,MCC Standard,73000,175000,2022-10-30,True,1459
+MCO-BT-012,Embroidered Fabric Belts — Stone,Accessories,Belts,MCC Standard,69000,165000,2021-05-24,True,2122
+MCO-BT-013,Braided Leather Belts — Burgundy,Accessories,Belts,MCC Basic,29000,65000,2023-02-23,True,237
+MCO-BT-014,Double Ring Belts — Olive,Accessories,Belts,MCC Standard,25000,60000,2022-12-22,True,1012
+MCO-BT-015,Canvas Webbing Belts — Blush,Accessories,Belts,MCC Standard,71000,170000,2022-07-04,True,963
+MCO-BT-016,Studded Skinny Belts — Mocha,Accessories,Belts,MCC Basic,48000,105000,2020-12-31,True,691
+MCO-BT-017,Classic Buckle Belts — Black,Accessories,Belts,MCC Standard,73000,175000,2022-10-17,True,1430
+MCO-BT-018,Embroidered Fabric Belts — White,Accessories,Belts,MCC Premium,53000,145000,2021-06-07,True,166
+MCO-BT-019,Braided Leather Belts — Navy,Accessories,Belts,MCC Standard,73000,175000,2022-01-04,False,1935
+MCO-BT-020,Double Ring Belts — Ivory,Accessories,Belts,MCC Standard,73000,175000,2021-07-07,False,2153
+MCO-CS-001,Chunky Sneaker Casual Shoes — Black,Footwear,Casual Shoes,MCC Standard,73000,175000,2022-12-05,True,1457
+MCO-CS-002,Platform Loafer Casual Shoes — White,Footwear,Casual Shoes,MCC Standard,73000,175000,2022-03-01,True,1780
+MCO-CS-003,Slip-On Canvas Casual Shoes — Navy,Footwear,Casual Shoes,MCC Basic,85000,185000,2023-01-05,True,585
+MCO-CS-004,Low-Top Trainer Casual Shoes — Ivory,Footwear,Casual Shoes,MCC Standard,67000,160000,2023-05-29,True,183
+MCO-CS-005,Espadrille Wedge Casual Shoes — Camel,Footwear,Casual Shoes,MCC Premium,288000,780000,2022-07-27,True,1696
+MCO-CS-006,Strappy Sandal Casual Shoes — Sage,Footwear,Casual Shoes,MCC Standard,165000,395000,2020-07-23,True,1914
+MCO-CS-007,Mule Clog Casual Shoes — Dusty Rose,Footwear,Casual Shoes,MCC Standard,119000,285000,2022-12-12,True,889
+MCO-CS-008,  chunky sneaker casual shoes — cognac  ,Footwear,Casual Shoes,MCC Premium,99000,270000,2020-11-04,True,1398
+MCO-CS-009,Platform Loafer Casual Shoes — Emerald,Footwear,Casual Shoes,MCC Basic,85000,185000,2020-07-19,True,2097
+MCO-CS-010,Slip-On Canvas Casual Shoes — Terracotta,Footwear,Casual Shoes,MCC Standard,138000,330000,2022-02-18,True,142
+MCO-CS-011,Low-Top Trainer Casual Shoes — Cobalt,Footwear,Casual Shoes,MCC Standard,163000,390000,2023-03-27,True,1374
+MCO-CS-012,Espadrille Wedge Casual Shoes — Stone,Footwear,Casual Shoes,MCC Premium,234000,635000,2021-10-14,True,1887
+MCO-CS-013,Strappy Sandal Casual Shoes — Burgundy,Footwear,Casual Shoes,MCC Standard,176000,420000,2023-02-08,True,1993
+MCO-CS-014,Mule Clog Casual Shoes — Olive,Footwear,Casual Shoes,MCC Standard,105000,250000,2021-11-20,True,921
+MCO-CS-015,Chunky Sneaker Casual Shoes — Blush,Footwear,Casual Shoes,MCC Premium,207000,560000,2023-03-17,True,1916
+MCO-CS-016,Platform Loafer Casual Shoes — Mocha,Footwear,Casual Shoes,MCC Premium,129000,350000,2022-07-27,True,804
+MCO-CS-017,Slip-On Canvas Casual Shoes — Black,Footwear,Casual Shoes,MCC Standard,123000,295000,2022-12-20,True,1211
+MCO-CS-018,  low-top trainer casual shoes — white  ,Footwear,Casual Shoes,MCC Standard,207000,495000,2022-11-14,True,944
+MCO-CS-019,Espadrille Wedge Casual Shoes — Navy,Footwear,Casual Shoes,MCC Premium,114000,310000,2022-04-08,True,475
+MCO-CS-020,Strappy Sandal Casual Shoes — Ivory,Footwear,Casual Shoes,MCC Standard,207000,495000,2022-10-01,True,1341
+MCO-CS-021,Mule Clog Casual Shoes — Camel,Footwear,Casual Shoes,MCC Standard,134000,320000,2023-04-17,True,545
+MCO-CS-022,  chunky sneaker casual shoes — sage  ,Footwear,Casual Shoes,MCC Premium,194000,525000,2020-11-05,True,854
+MCO-CS-023,  platform loafer casual shoes — dusty rose  ,Footwear,Casual Shoes,MCC Premium,164000,445000,2021-02-22,True,1256
+MCO-CS-024,SLIP-ON CANVAS CASUAL SHOES — COGNAC,Footwear,Casual Shoes,MCC Standard,65000,155000,2023-06-09,True,1425
+MCO-CS-025,Low-Top Trainer Casual Shoes — Emerald,Footwear,Casual Shoes,MCC Standard,128000,305000,2021-10-20,True,1961
+MCO-CS-026,Espadrille Wedge Casual Shoes — Terracotta,Footwear,Casual Shoes,MCC Standard,203000,485000,2022-01-19,True,1226
+MCO-CS-027,Strappy Sandal Casual Shoes — Cobalt,Footwear,Casual Shoes,MCC Standard,113000,270000,2023-03-28,True,899
+MCO-CS-028,Mule Clog Casual Shoes — Stone,Footwear,Casual Shoes,MCC Standard,96000,230000,2023-03-21,True,2007
+MCO-CS-029,Chunky Sneaker Casual Shoes — Burgundy,Footwear,Casual Shoes,MCC Standard,205000,490000,2022-10-09,False,537
+MCO-CS-030,Platform Loafer Casual Shoes — Olive,Footwear,Casual Shoes,MCC Standard,149000,355000,2020-08-11,False,714
+MCO-FS-001,Oxford Brogue Formal Shoes — Black,Footwear,Formal Shoes,MCC Premium,209000,565000,2021-07-04,True,456
+MCO-FS-002,Block Heel Pump Formal Shoes — White,Footwear,Formal Shoes,MCC Basic,78000,170000,2020-07-16,True,680
+MCO-FS-003,Pointed-Toe Mule Formal Shoes — Navy,Footwear,Formal Shoes,MCC Standard,136000,325000,2022-12-03,True,1320
+MCO-FS-004,Derby Lace-Up Formal Shoes — Ivory,Footwear,Formal Shoes,MCC Standard,247000,590000,2023-02-17,True,1089
+MCO-FS-005,  kitten heel slingback formal shoes — camel  ,Footwear,Formal Shoes,MCC Basic,138000,300000,2022-07-27,True,622
+MCO-FS-006,Ankle Boot Formal Shoes — Sage,Footwear,Formal Shoes,MCC Basic,172000,375000,2021-05-04,True,1749
+MCO-FS-007,Oxford Brogue Formal Shoes — Dusty Rose,Footwear,Formal Shoes,MCC Premium,173000,470000,2022-03-25,True,757
+MCO-FS-008,  block heel pump formal shoes — cognac  ,Footwear,Formal Shoes,MCC Standard,105000,250000,2021-06-30,True,2105
+MCO-FS-009,Pointed-Toe Mule Formal Shoes — Emerald,Footwear,Formal Shoes,MCC Standard,279000,665000,2021-11-03,True,376
+MCO-FS-010,derby lace-up formal shoes — terracotta,Footwear,Formal Shoes,MCC Basic,59000,130000,2022-10-06,True,298
+MCO-FS-011,Kitten Heel Slingback Formal Shoes — Cobalt,Footwear,Formal Shoes,MCC Premium,136000,370000,2021-04-11,True,1292
+MCO-FS-012,Ankle Boot Formal Shoes — Stone,Footwear,Formal Shoes,MCC Standard,96000,230000,2021-05-01,True,1174
+MCO-FS-013,Oxford Brogue Formal Shoes — Burgundy,Footwear,Formal Shoes,MCC Standard,92000,220000,2020-09-09,True,1886
+MCO-FS-014,BLOCK HEEL PUMP FORMAL SHOES — OLIVE,Footwear,Formal Shoes,MCC Standard,107000,255000,2022-11-17,True,208
+MCO-FS-015,POINTED-TOE MULE FORMAL SHOES — BLUSH,Footwear,Formal Shoes,MCC Standard,176000,420000,2021-02-27,True,2151
+MCO-FS-016,Derby Lace-Up Formal Shoes — Mocha,Footwear,Formal Shoes,MCC Standard,147000,350000,2021-03-25,True,963
+MCO-FS-017,Kitten Heel Slingback Formal Shoes — Black,Footwear,Formal Shoes,MCC Premium,207000,560000,2020-11-15,True,959
+MCO-FS-018,Ankle Boot Formal Shoes — White,Footwear,Formal Shoes,MCC Premium,382000,1035000,2020-11-14,True,1157
+MCO-FS-019,  oxford brogue formal shoes — navy  ,Footwear,Formal Shoes,MCC Standard,88000,210000,2021-07-16,False,949
+MCO-FS-020,Block Heel Pump Formal Shoes — Ivory,Footwear,Formal Shoes,MCC Basic,117000,255000,2021-12-10,False,1863
