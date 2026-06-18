@@ -14,8 +14,8 @@ End-to-end retail analytics project covering the full analyst stack:
 | Stage | Description | Status |
 |---|---|---|
 | Data Generation | Synthetic dataset with realistic patterns and dirty data | ✅ Complete |
-| Data Cleaning | Python pipeline (notebook + production script) | 🔄 In Progress |
-| SQL Analysis | Inventory, channel, and commercial queries in PostgreSQL | 📋 Planned |
+| Data Cleaning | Python pipeline (notebook + production script) | ✅ Complete |
+| SQL Analysis | Inventory, channel, and commercial queries in PostgreSQL | 🔄 In Progress |
 | Advanced Analytics | RFM segmentation, cohort analysis, A/B testing, geographic maps | 📋 Planned |
 | Dashboard | Looker Studio with geographic visualizations | 📋 Planned |
 
